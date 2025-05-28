@@ -1,0 +1,5 @@
+setuptools<65
+python-telegram-bot==20.3
+vnstock
+requests
+nest_asyncio
